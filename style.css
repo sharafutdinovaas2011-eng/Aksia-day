@@ -1,0 +1,56 @@
+.topbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+background: #193500;
+  color: #FFFFE3;
+  padding: 10px 12px;
+ border-bottom: 3px solid: #350011;
+  z-index: 1;
+}
+
+.brand{font-weight: bold;}
+.btn{float: reigt; text-decoration: none; background: #FFEB00;
+  color: #490404; padding: 6px 10px; border-radius: 8px}
+
+.page{ padding: 70px 14px 60px; max-width: 600px;
+  margin: 0 auto; }
+.notice{position: relarive; left: 40px; background:#FEEA8D;
+  border: 1px solid #FDC34E; padding: 10px;
+border-radius: 10px; margin-bottom: 15px}
+
+.card{position: relative; background:#FFFFFF; border: 1px solid #907CCE ; border-radius: 14px; padding: 16px}
+
+.badge{position: absolute; top: -5px; right: 10px;
+background:#FF2C26; color:#fff; padding: 6px 10px;
+border-radius: 999px; font-weight: bold;
+border: 2px solid #fff;
+}
+
+
+.to-top{position: fixed; right: 12px; bottom: 12px;
+  width: 40px; height: 40px; line-height: 40px; 
+  text-align: center; text-decoration: none; font-weight: bold;
+  border: 2px solid #ded6c6;
+  border-radius: 10px; color: #375676;
+}
+
+.sticher{position: absolute; top: 70px; right: 12px; 
+background: #7c4dff; color: #fff; padding: 10px 12px; 
+  border-radius: 14px; font-weight: bold; 
+  border: 2px solid #4383C5;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f6f2e8;
+    color: #2b2b2b;
+    height: 1500px;
+}
+
+.title {
+    margin: 0 0 10px;
+}
